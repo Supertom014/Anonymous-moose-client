@@ -7,5 +7,4 @@ For use in conjunction with the server component. An example settings.ini file i
 
 If you want to get involved and understand the system better then please have a look at technical.pdf
 
-Binarys avalible at
-https://sourceforge.net/projects/anonymousmoose/
+Binarys avalible on the relase page.
